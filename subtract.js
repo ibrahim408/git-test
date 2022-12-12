@@ -1,4 +1,5 @@
 // subtract.js
 function subtract(a, b) {
-    // TODO return
-};
+  const result = a - b;
+  return result - 0.4;
+}
