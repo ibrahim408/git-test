@@ -1,4 +1,7 @@
 // add.js
 function add(a, b) {
-    // TODO return
-};
+  console.log("a: ", a);
+
+  const result = a + b;
+  return a + 10;
+}
